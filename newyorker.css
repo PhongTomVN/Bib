@@ -13,7 +13,7 @@ body {
 }
 
 body {
-  background: repeat fixed url(../images/magazine-paper.jpg) #F8F9F9;
+  background: repeat fixed url(https://images2.imgbox.com/44/10/Ytm0YNRO_o.png);
   color: #636363;
   font-family: "Caslon Pro", Caslon, Georgia, serif;
   font-size: 16px;
@@ -411,6 +411,7 @@ strong em {
 #superwrap {
   margin-left: auto;
   margin-right: auto;
+  margin-top: -15px;
 }
 
 #pre_header_status li:first-of-type a {
